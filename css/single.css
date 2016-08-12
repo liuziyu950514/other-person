@@ -1,0 +1,122 @@
+#banner{
+	background: #00bcd4;
+	margin-bottom: 30px;
+	position: relative;
+	padding-top: 55px;
+	padding-bottom: 55px;
+	box-shadow: 0 1px 6px rgba(0,0,0,.35);
+
+}
+.title {
+    color: #fff;
+    margin-bottom: 7px;
+    font-size: 48px;
+    line-height: 1.1;
+    font-weight: 700;
+}
+.blog-post-meta {
+    padding: 5px 0;
+}
+.blog-post-meta li {
+    float: left;
+    margin-right: 10px;
+    border-right: 1px solid #6bcfe0;
+    padding-right: 10px;
+    line-height: 11px;
+    font-weight: 400;
+    font-size:13px;
+    color: #fff; 
+}
+.blog-post-meta li a{
+	color: #fff;
+}
+.single-post-page .thumb-wrap {
+    margin-bottom: 25px;
+}
+.single-post-page .thumb-wrap img {
+    width: 100%;
+    display: block;
+    height: auto;
+}
+.single-post-content{
+	word-wrap: break-word; 
+}
+.comment-section {
+    margin-bottom: 42px;
+}
+.com-title {
+    color: #444444;
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+.comment-list-wrapper {
+    margin-left: -20px;
+}
+.comment-list {
+    padding-left: 20px;
+}
+.comment-list .card1 {
+    padding: 20px;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+}
+.comment-list .card1 {
+    margin-bottom: 20px;
+}
+.comment-img {
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.comment-img img {
+    width: 100%;
+}
+.card1 .comment-content {
+    padding: 0;
+    border: none;
+    overflow: hidden;
+}
+
+.comment-list .card1 .comment-text {
+    color: #777777;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 400;
+}
+.comment-list .card1 .comment-meta .author {
+    margin-bottom: 5px;
+}
+.comment-list .card1 .comment-meta .author {
+    color: #444444;
+    font-size: 14px;
+    font-weight: 500;
+}
+.comment-list .card1 p {
+    margin-top: 0;
+}
+.comment-list .card1 .comment-meta .date {
+    color: #727272;
+    font-size: 11px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.comment-list .card1 p {
+    margin-top: 0;
+}
+
+.contact-form{
+    margin-bottom: 42px;
+}
+.contact-form .input-field {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.contact-form .textarea-input{
+	margin-bottom: 40px;
+}
+.contact-form .submit-btn{
+	background: #fff;
+}

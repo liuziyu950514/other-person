@@ -1,0 +1,142 @@
+.breadcrumb-outer {
+    position: relative;
+    padding: 10px 0px;
+    background: #f6f6f6;
+}
+.breadcrumb-outer .bread-crumb {
+    position: relative;
+    color: #bbbbbb;
+    font-family: 'Raleway',sans-serif;
+}
+.breadcrumb-outer .bread-crumb a {
+    position: relative;
+    font-size: 12px;
+    line-height: 20px;
+    color: #bbbbbb;
+    margin: 0px 7px;
+    font-weight: 600;
+}
+.breadcrumb-outer .bread-crumb a:hover{
+	color: #000;
+}
+.breadcrumb-outer .bread-crumb a.current {
+    position: relative;
+    color: #27343e;
+}
+.sidebar-page {
+    position: relative;
+    padding: 80px 0px 50px;
+}
+.blog-news-section {
+    position: relative;
+    padding: 0;
+}
+
+.inner-box {
+    position: relative;
+    background: #ffffff;
+}
+.image-box {
+    position: relative;
+    overflow: hidden;
+}
+.image-box img:hover{
+	opacity: 0.7;
+
+}
+.image-box img{
+	display: block;
+	width: 100%;
+	transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+.content-box {
+    position: relative;
+    padding: 20px 0px 0px;
+}
+.blog-news-section h3 {
+    margin-bottom: 5px;
+}
+.blog-news-section h3 a{
+	color: #000;
+}
+.blog-news-section h3 a:hover {
+   	color: #00bcd4;
+}
+
+
+.blog-news-section .post-info {
+    position: relative;
+    color: #888888;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.blog-news-section .post-info li:first-child {
+    margin-left: 0px;
+}
+.blog-news-section .post-info li {
+    position: relative;
+    display: inline-block;
+    margin: 0px 10px;
+    font-size: 11px;
+}
+.blog-news-section .post-info li a {
+    color: #777777;
+}
+.post-info li:after {
+    content: '/';
+    position: absolute;
+    right: -12px;
+    top: 0px;
+}
+.blog-news-section .content-box .article-text {
+    position: relative;
+    color: #888888;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+.blog-news-section .content-box .read-more {
+    display: inline-block;
+    line-height: 24px;
+    padding: 7px 20px;
+    border: 2px solid #e0e0e0;
+    font-size: 12px;
+    color: #27343e;
+    font-weight: 400;
+    font-family: 'Montserrat',sans-serif;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+}
+.blog-news-section .content-box .read-more:hover{
+	color: #00bcd4;
+	border: 2px solid #00bcd4;
+}
+.inner-box{
+    margin-bottom: 50px;
+}
+.li-style li{
+    float: left;
+}
+.li-style li a{
+    display: block;
+    
+    border: 1px solid #ccc;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 10px;
+}
+.am-active a{
+    background: #00bcd4;
+    color: #fff;
+}
